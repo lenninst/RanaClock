@@ -1,0 +1,10 @@
+D:\Developer\dotnet\RanaClock\RanaClock\bin\Debug\RanaClock.exe.config
+D:\Developer\dotnet\RanaClock\RanaClock\bin\Debug\RanaClock.exe
+D:\Developer\dotnet\RanaClock\RanaClock\bin\Debug\RanaClock.pdb
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.csproj.AssemblyReference.cache
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.Form1.resources
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.Properties.Resources.resources
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.csproj.GenerateResource.cache
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.csproj.CoreCompileInputs.cache
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.exe
+D:\Developer\dotnet\RanaClock\RanaClock\obj\Debug\RanaClock.pdb
